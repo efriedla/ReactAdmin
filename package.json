@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "server": "json-server --watch db.json --port 5000",
+    "client": "npm start --prefix client"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/efriedla/ReactAdmin/issues"
   },
-  "homepage": "https://github.com/efriedla/ReactAdmin#readme"
+  "homepage": "https://github.com/efriedla/ReactAdmin#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
 }

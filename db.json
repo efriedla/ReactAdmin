@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "Body of the post",
+      "publishDate": "10-01-2020"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "Body of the post",
+      "publishDate": "07-01-2020"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "Body of the post",
+      "publishDate": "01-11-2020"
+    },
+    {
+      "title": "post 4",
+      "body": "this is the body ",
+      "publishDate": "07-06-21",
+      "id": "d2AU2or"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Bob Person",
+      "email": "BobPerson@gmail.com"
+    }
+  ]
+}
